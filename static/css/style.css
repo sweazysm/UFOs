@@ -1,0 +1,13 @@
+body {
+
+    color: red;
+}
+
+.jumbotron {
+    background-image: url("../images/nasa.png");
+    background-size: 100% 100%;
+    text-align: center;
+}
+button{
+    margin: -20px 100px;
+}
