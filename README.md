@@ -1,4 +1,4 @@
-# UFOs
+# UFOs - The Truth Is Out There! 
 
 ### Overview
 
@@ -28,9 +28,14 @@ Using this easy-to-grasp filtering criteria we are able to give visitors access 
 
 ### Summary
     
+Creating a website design from code alone is proving to be a challenge, there will be no mincing of words here. To consistently nest items within <tr> and <div> functions can become tedious and tiresome, to enter indentation nightmares and references to and from .js and .html files, for issues becoming as difficult and as simple as changing a file's relative location. . . headaches continue to ensue consistently and relentlessly without the slightest of wavering mercy.  
+
+The new design of the website presents itself with sleekness and open accessibility. However, the design has several flaws. To begin, there could be more design variation within the website. With just a header image and a grey background it can easily be deduced that this is a plain website. As well, the website greets you with a large paragraph of information. In a time where most people only read the headline for a news article is it really smart to greet a website visitor with a giant paragraph? As well, a quick glance down brings one to an overwhelming amount of data in a table/array that spans onwards and onwards. This amount of data at the onset of a visit can be intimidating.
+
+In response to the above stated issues, the website's desgn can be improved and developed upon in the following ways:
+
+- Instead of greeting one with a large pararaph, greet visitors with a shorter piece of information such as a famous quite regarding UFOs or a comment by a high-profile individual involed with UFOs. This provides impact in a more concise and easy-to-digest manner
     
+- Instead of having the entire table/array of information displayed at the onset of visitation, perhaps only show 1-3 random pieces of information as an example as to not overwhelm visitors while also giving them an idea of what information wiill be returned and in what format
     
-    
-    
-    
-    Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
+- Place the filtering section front-and-center as this is a key part of the website. Placing it to the left is not bad per say, but since a main purpose of the website is hosting and showing UFO information such a search option(s) should be near the forefront of the website
